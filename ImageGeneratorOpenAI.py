@@ -4,7 +4,7 @@ Created on Tue Jan 17 20:29:37 2023
 
 @author: HP
 """
-
+!pip install openai
 import openai
 import urllib.request
 from PIL import Image
